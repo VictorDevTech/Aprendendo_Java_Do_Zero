@@ -12,7 +12,7 @@ public class SistemaSimplesDeBanco {
         Scanner teclado = new Scanner(System.in);
 
         while (opcao != 4) {
-            System.out.println("\n===== BANCO =====");
+            System.out.println("\n======= BANCO DO MOGZADA =======");
             System.out.println("[1] Depositar");
             System.out.println("[2] Sacar");
             System.out.println("[3] Saldo");
